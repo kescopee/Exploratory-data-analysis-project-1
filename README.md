@@ -16,5 +16,4 @@ one household with a one-minute sampling rate over a period of almost
 are available.
 
 
-For a detailed description, please refer to the coursera course:
-* <a href = "https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1"> Exploratory Data Analysis - Project 1</a>
+For a detailed description, please refer to the coursera course: <a href = "https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1"> Exploratory Data Analysis - Project 1</a>
